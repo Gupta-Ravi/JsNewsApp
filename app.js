@@ -1,4 +1,4 @@
-const apiKey = '5326c2d946794d67b05821f93e51ceeb'
+const apiKey = 'your_api_key'
 
 const blogContainer = document.getElementById('blog-container')
 const seachInput = document.getElementById('search-input')
